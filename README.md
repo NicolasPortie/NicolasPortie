@@ -1,7 +1,8 @@
 <h1 align="left">Olá! Eu sou o Nicolas Portie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"</h1>
 
 
-#### Em 2020 resolvi começar a estudar Engenharia da Computação na Universidade UniSALESIANO Araçatuba, e desde então, percebi como realmente funciona por trás de uma interface. Iniciei os estudos na plataforma Alura em busca de me profissionalizar e aprender mais sobre programação na área de Back-end.
+#### Sou estudante de Engenharia da Computação, iniciei o curso no ano de 2020. Estou em busca de me profissionalizar e trabalhar na área de programação. Sou uma pessoa dedicada, trabalho bem em equipe, e também sempre disposto para desafios.
+
 
 - 🌱 Estou estudando CSharp, JavaScript, TypeScript, DotNet,  Node.js
 

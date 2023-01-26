@@ -4,7 +4,7 @@
 #### Sou estudante de Engenharia da Computação, iniciei o curso no ano de 2020. Estou em busca de me profissionalizar e trabalhar na área de programação. Sou uma pessoa dedicada, trabalho bem em equipe, e também sempre disposto para desafios.
 
 
-- 🌱 Estou estudando CSharp, JavaScript, TypeScript, DotNet,  Node.js
+- 🌱 Atualmente estou estudando a linguagem C# e o framework ASP.NET Core, para trabalhar como programador back-end.
 
 
 <div> 

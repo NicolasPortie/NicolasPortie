@@ -1,7 +1,7 @@
 <h1 align="left">Olá! Eu sou o Nicolas Portie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"</h1>
 
 
-#### Sou estudante de Engenharia da Computação, iniciei o curso no ano de 2020. Estou em busca de me profissionalizar e trabalhar na área de programação. Sou uma pessoa dedicada, trabalho bem em equipe, e também sempre disposto para desafios.
+#### Apaixonado por tecnologia e inovação, estou em processo de formação em Engenharia da Computação, com conclusão prevista para 2025. Tenho experiência no desenvolvimento de software, com ênfase em C#, SQL e frameworks como ASP.NET e Entity Framework. Meu foco é sempre entregar soluções eficientes, otimizando processos e superando desafios de forma eficaz. 
 
 
 - 🌱 Atualmente estou estudando a linguagem C# e o framework ASP.NET Core, para trabalhar como programador back-end.

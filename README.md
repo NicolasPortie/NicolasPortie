@@ -1,10 +1,7 @@
 <h1 align="left">Olá! Eu sou o Nicolas Portie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"</h1>
 
 
-#### Apaixonado por tecnologia e inovação, estou em processo de formação em Engenharia da Computação, com conclusão prevista para 2025. Tenho experiência no desenvolvimento de software, com ênfase em C#, SQL e frameworks como ASP.NET e Entity Framework. Meu foco é sempre entregar soluções eficientes, otimizando processos e superando desafios de forma eficaz. 
-
-
-- 🌱 Atualmente estou estudando a linguagem C# e o framework ASP.NET Core, para trabalhar como programador back-end.
+#### Apaixonado por tecnologia e inovação, curso Engenharia da Computação, com conclusão prevista para 2025. Tenho experiência em desenvolvimento de software utilizando C#, SQL e frameworks como ASP.NET e Entity Framework. Meu objetivo é transformar desafios em soluções eficientes, otimizando processos e agregando valor ao negócio por meio de código limpo, boas práticas e mentalidade ágil. Busco sempre aprender, colaborar em equipe e entregar resultados que se traduzam em impacto real para clientes e usuários.
 
 <div> 
   <a href="https://www.linkedin.com/in/nicolasportie" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

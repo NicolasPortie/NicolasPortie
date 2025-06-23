@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Eu sou o Nicolas Portie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"</h1>
+<h1 align="left">Olá! Eu sou o Nicolas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"</h1>
 
 
 #### Apaixonado por tecnologia e inovação, curso Engenharia da Computação, com conclusão prevista para 2025. Tenho experiência em desenvolvimento de software utilizando C#, SQL e frameworks como ASP.NET e Entity Framework. Meu objetivo é transformar desafios em soluções eficientes, otimizando processos e agregando valor ao negócio por meio de código limpo, boas práticas e mentalidade ágil. Busco sempre aprender, colaborar em equipe e entregar resultados que se traduzam em impacto real para clientes e usuários.

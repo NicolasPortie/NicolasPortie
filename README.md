@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Apaixonado por tecnologia e inovação, **Engenheiro da Computação** com formatura prevista para **2025**. Especializado em desenvolvimento backend com **C#** e **ASP.NET**, busco transformar desafios complexos em soluções elegantes e eficientes.
+Apaixonado por tecnologia e inovação, **Engenheiro da Computação**. Especializado em desenvolvimento backend com **C#** e **ASP.NET**, busco transformar desafios complexos em soluções elegantes e eficientes.
 
 
 ---

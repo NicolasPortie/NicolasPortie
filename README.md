@@ -1,26 +1,15 @@
 <div align="center">
   <h1>Nicolas Portie</h1>
-  <h3>Desenvolvedor Full Stack | Engenheiro da Computação</h3>
+  <h3>Desenvolvedor Back-end | ASP.NET Core | C# | .NET | SQL Server</h3>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=NicolasPortie&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/NicolasPortie?color=0366d6&style=flat-square&label=Followers" alt="Followers" />
-  </p>
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Apaixonado por tecnologia e inovação, sou estudante de **Engenharia da Computação** com formatura prevista para **2025**. Especializado em desenvolvimento backend com **C#** e **ASP.NET**, busco transformar desafios complexos em soluções elegantes e eficientes.
+Apaixonado por tecnologia e inovação, **Engenheiro da Computação** com formatura prevista para **2025**. Especializado em desenvolvimento backend com **C#** e **ASP.NET**, busco transformar desafios complexos em soluções elegantes e eficientes.
 
-```yaml
-nome: "Nicolas Portie"
-localização: "Brasil"
-foco: "Desenvolvimento Backend"
-graduação: "Engenharia da Computação - 2025"
-objetivo: "Desenvolvedor Backend Sênior"
-```
 
 ---
 
@@ -35,20 +24,18 @@ objetivo: "Desenvolvedor Backend Sênior"
 ### **Banco de Dados**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### **Ferramentas & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasPortie&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPortie&layout=compact&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasPortie&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPortie&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 ---
@@ -56,18 +43,22 @@ objetivo: "Desenvolvedor Backend Sênior"
 ## 🎯 Competências & Experiência
 
 - **Desenvolvimento Backend**: C#, ASP.NET Core, Web APIs RESTful
-- **Banco de Dados**: Modelagem, SQL avançado, Entity Framework
+- **Banco de Dados**: Modelagem, SQL, Entity Framework
 - **Arquitetura**: Clean Architecture, SOLID Principles, Design Patterns
 - **Metodologias**: Scrum, Clean Code, Versionamento Git
 - **Soft Skills**: Resolução de problemas, trabalho em equipe, aprendizado contínuo
 
 ---
 
-## 📈 Objetivos Profissionais
+## 🚀 Projetos
 
-🎯 **2025**: Finalizar graduação e conquistar posição como Desenvolvedor Backend Júnior/Pleno
-🚀 **Médio Prazo**: Especialização em Cloud Computing e microsserviços
-🌟 **Longo Prazo**: Evolução para Desenvolvedor Sênior e Tech Lead
+### **[CaotinhoAuMiau](https://github.com/NicolasPortie/CaotinhoAuMiau)**
+Sistema web para gerenciamento de adoções de cães e gatos
+**Tecnologias:** ASP.NET Core MVC, Entity Framework, SQL Server, Bootstrap
+
+### **[Controle de Acesso](https://github.com/NicolasPortie/Controle-de-Acesso)** - *TCC*
+Sistema de controle de entrada e saída de veículos com integração hardware/software
+**Tecnologias:** Sistemas embarcados, controle de acesso automatizado
 
 ---
 

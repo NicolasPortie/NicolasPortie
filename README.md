@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Nicolas Portie</h1>
   <h3>Software Engineer · .NET</h3>
-  <p>Aplicações web, sistemas backend, dados e integrações.</p>
-  <p><em>Web applications, backend systems, data, and integrations.</em></p>
+  <p>Desenvolvimento de software com C# e ecossistema .NET.</p>
+  <p><em>Software development with C# and the .NET ecosystem.</em></p>
 
   <a href="https://www.linkedin.com/in/nicolasportie">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Nicolas Portie">
@@ -16,9 +16,9 @@
 
 ## Sobre / About
 
-Engenheiro da Computação com foco no ecossistema **.NET**. Desenvolvo aplicações web e sistemas backend que conectam regras de negócio, dados e integrações — da autenticação e persistência a automações, relatórios e comunicação com hardware.
+Engenheiro da Computação com foco no ecossistema **.NET**. Desenvolvo aplicações web com **C#**, **ASP.NET Core** e **Entity Framework Core**, aplicando modelagem relacional, autenticação, automações e geração de relatórios.
 
-*Computer Engineer focused on .NET, building web applications and backend systems around business workflows, data, automation, and integrations.*
+*Computer Engineer focused on .NET, building web applications with C#, ASP.NET Core, and Entity Framework Core.*
 
 ## Stack principal / Core stack
 
@@ -31,7 +31,7 @@ Engenheiro da Computação com foco no ecossistema **.NET**. Desenvolvo aplicaç
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Foco de engenharia:** aplicações web e backend, modelagem relacional, autenticação, automações, relatórios e integrações.
+**Foco de engenharia:** aplicações web, modelagem relacional, autenticação, automações e relatórios.
 
 ## Projetos em destaque / Featured projects
 
@@ -55,8 +55,8 @@ Sistema corporativo desenvolvido como TCC de Engenharia da Computação, integra
 
 ## Vamos conversar / Let's connect
 
-Se você trabalha com produtos **.NET**, sistemas backend ou integrações, será um prazer trocar ideias sobre engenharia de software.
+Se você trabalha com produtos **.NET** ou desenvolvimento de software, será um prazer trocar ideias sobre engenharia.
 
-*Interested in .NET engineering, backend systems, or integrations? Let's connect.*
+*Interested in .NET engineering or software development? Let's connect.*
 
 [LinkedIn](https://www.linkedin.com/in/nicolasportie) · [E-mail](mailto:nicolasportieprofissional@gmail.com)

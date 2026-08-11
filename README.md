@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Nicolas Portie</h1>
   <h3>Software Engineer · .NET</h3>
-  <p>Desenvolvimento de software com C# e ecossistema .NET.</p>
-  <p><em>Software development with C# and the .NET ecosystem.</em></p>
+  <p>Aplicações web, sistemas backend e dados.</p>
+  <p><em>Web applications, backend systems, and data.</em></p>
 
   <a href="https://www.linkedin.com/in/nicolasportie">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Nicolas Portie">
@@ -16,9 +16,9 @@
 
 ## Sobre / About
 
-Engenheiro da Computação com foco no ecossistema **.NET**. Desenvolvo aplicações web com **C#**, **ASP.NET Core** e **Entity Framework Core**, aplicando modelagem relacional, autenticação, automações e geração de relatórios.
+Engenheiro da Computação com foco no ecossistema **.NET**. Desenvolvo aplicações web e sistemas backend com **C#**, **ASP.NET Core** e **Entity Framework Core**, aplicando regras de negócio, modelagem relacional, autenticação, automações e geração de relatórios.
 
-*Computer Engineer focused on .NET, building web applications with C#, ASP.NET Core, and Entity Framework Core.*
+*Computer Engineer focused on .NET, building web applications and backend systems with C#, ASP.NET Core, and Entity Framework Core.*
 
 ## Stack principal / Core stack
 
@@ -31,7 +31,7 @@ Engenheiro da Computação com foco no ecossistema **.NET**. Desenvolvo aplicaç
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Foco de engenharia:** aplicações web, modelagem relacional, autenticação, automações e relatórios.
+**Foco de engenharia:** aplicações web e backend, modelagem relacional, autenticação, automações e relatórios.
 
 ## Projetos em destaque / Featured projects
 
@@ -45,18 +45,18 @@ Plataforma que digitaliza o fluxo de adoção de animais, do cadastro e da avali
 
 ### [Controle de Acesso Veicular](https://github.com/NicolasPortie/Controle-de-Acesso)
 
-Sistema corporativo desenvolvido como TCC de Engenharia da Computação, integrando uma aplicação web a dispositivos físicos. Implementa autenticação em dois fatores com RFID e PIN, monitoramento de acessos em tempo real, relatórios em PDF e configuração da comunicação serial pela interface.
+Sistema corporativo desenvolvido como TCC de Engenharia da Computação. Implementa autenticação em dois fatores com RFID e PIN, monitoramento de acessos em tempo real, relatórios em PDF e configuração da comunicação serial pela interface.
 
 `C#` · `.NET 8` · `Blazor Server` · `MudBlazor` · `Entity Framework Core` · `SQL Server` · `Arduino`
 
-**Engenharia em destaque:** integração hardware/software, comunicação serial e controle de acesso automatizado.
+**Engenharia em destaque:** autenticação com RFID e PIN, comunicação serial e controle de acesso automatizado.
 
 ---
 
 ## Vamos conversar / Let's connect
 
-Se você trabalha com produtos **.NET** ou desenvolvimento de software, será um prazer trocar ideias sobre engenharia.
+Se você trabalha com produtos **.NET** ou sistemas backend, será um prazer trocar ideias sobre engenharia de software.
 
-*Interested in .NET engineering or software development? Let's connect.*
+*Interested in .NET engineering or backend systems? Let's connect.*
 
 [LinkedIn](https://www.linkedin.com/in/nicolasportie) · [E-mail](mailto:nicolasportieprofissional@gmail.com)

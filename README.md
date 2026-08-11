@@ -1,79 +1,62 @@
 <div align="center">
   <h1>Nicolas Portie</h1>
-  <h3>Desenvolvedor Back-end | ASP.NET Core | C# | .NET | SQL Server</h3>
+  <h3>Software Engineer · .NET</h3>
+  <p>Aplicações web, sistemas backend, dados e integrações.</p>
+  <p><em>Web applications, backend systems, data, and integrations.</em></p>
 
+  <a href="https://www.linkedin.com/in/nicolasportie">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Nicolas Portie">
+  </a>
+  <a href="mailto:nicolasportieprofissional@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Nicolas Portie">
+  </a>
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre / About
 
-Apaixonado por tecnologia e inovação, **Engenheiro da Computação**. Especializado em desenvolvimento backend com **C#** e **ASP.NET**, busco transformar desafios complexos em soluções elegantes e eficientes.
+Engenheiro da Computação com foco no ecossistema **.NET**. Desenvolvo aplicações web e sistemas backend que conectam regras de negócio, dados e integrações — da autenticação e persistência a automações, relatórios e comunicação com hardware.
 
+*Computer Engineer focused on .NET, building web applications and backend systems around business workflows, data, automation, and integrations.*
 
----
+## Stack principal / Core stack
 
-## 🛠️ Stack Tecnológico
-
-### **Backend**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET 8 e 9](https://img.shields.io/badge/.NET-8%20%7C%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### **Banco de Dados**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### **Ferramentas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Foco de engenharia:** aplicações web e backend, modelagem relacional, autenticação, automações, relatórios e integrações.
+
+## Projetos em destaque / Featured projects
+
+### [CaotinhoAuMiau](https://github.com/NicolasPortie/CaotinhoAuMiau)
+
+Plataforma que digitaliza o fluxo de adoção de animais, do cadastro e da avaliação até a assinatura de contratos e o acompanhamento da solicitação. Reúne autenticação com BCrypt, áreas pública, de usuário e administrativa, auditoria, geração de PDFs, notificações e serviços em segundo plano.
+
+`C#` · `.NET 9` · `ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server` · `Razor` · `JavaScript`
+
+**Engenharia em destaque:** segurança de sessão, validação de dados e uploads, rastreabilidade e automação de fluxos.
+
+### [Controle de Acesso Veicular](https://github.com/NicolasPortie/Controle-de-Acesso)
+
+Sistema corporativo desenvolvido como TCC de Engenharia da Computação, integrando uma aplicação web a dispositivos físicos. Implementa autenticação em dois fatores com RFID e PIN, monitoramento de acessos em tempo real, relatórios em PDF e configuração da comunicação serial pela interface.
+
+`C#` · `.NET 8` · `Blazor Server` · `MudBlazor` · `Entity Framework Core` · `SQL Server` · `Arduino`
+
+**Engenharia em destaque:** integração hardware/software, comunicação serial e controle de acesso automatizado.
 
 ---
 
-## 📊 Estatísticas GitHub
+## Vamos conversar / Let's connect
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasPortie&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPortie&layout=compact&theme=dark&hide_border=true"/>
-</div>
+Se você trabalha com produtos **.NET**, sistemas backend ou integrações, será um prazer trocar ideias sobre engenharia de software.
 
----
+*Interested in .NET engineering, backend systems, or integrations? Let's connect.*
 
-## 🎯 Competências & Experiência
-
-- **Desenvolvimento Backend**: C#, ASP.NET Core, Web APIs RESTful
-- **Banco de Dados**: Modelagem, SQL, Entity Framework
-- **Arquitetura**: Clean Architecture, SOLID Principles, Design Patterns
-- **Metodologias**: Scrum, Clean Code, Versionamento Git
-- **Soft Skills**: Resolução de problemas, trabalho em equipe, aprendizado contínuo
-
----
-
-## 🚀 Projetos
-
-### **[CaotinhoAuMiau](https://github.com/NicolasPortie/CaotinhoAuMiau)**
-Sistema web para gerenciamento de adoções de cães e gatos
-**Tecnologias:** ASP.NET Core MVC, Entity Framework, SQL Server, Bootstrap
-
-### **[Controle de Acesso](https://github.com/NicolasPortie/Controle-de-Acesso)** - *TCC*
-Sistema de controle de entrada e saída de veículos com integração hardware/software
-**Tecnologias:** Sistemas embarcados, controle de acesso automatizado
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasportie)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/tnji3q)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasportieprofissional@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <sub>💡 Sempre aberto a novas oportunidades e desafios tecnológicos</sub>
-</div>
+[LinkedIn](https://www.linkedin.com/in/nicolasportie) · [E-mail](mailto:nicolasportieprofissional@gmail.com)

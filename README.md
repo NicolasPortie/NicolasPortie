@@ -1,63 +1,69 @@
-<div align="center">
-  <h1>Nicolas Portie</h1>
-  <h3>Software Engineer · .NET / C#</h3>
-  <p>Sistemas de negócio, backend e arquitetura no ecossistema .NET.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img width="100%" src="./assets/header-light.svg" alt="Identidade visual de Nicolas Portie, com domínio, API, dados e interface web conectados">
+</picture>
 
-  <a href="https://www.linkedin.com/in/nicolasportie">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Nicolas Portie">
-  </a>
-  <a href="mailto:contato@nicolasportie.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Nicolas Portie">
-  </a>
-  <a href="https://nicolasportie.com">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio de Nicolas Portie">
-  </a>
-</div>
+<h1 align="center">Nicolas Portie</h1>
 
----
+<p align="center">
+  <strong>Engenheiro de software · C# / .NET · React / TypeScript</strong>
+  <br>
+  Backend em .NET e interfaces web com React e TypeScript.
+</p>
 
-## Sobre
+<p align="center">
+  <a href="https://nicolasportie.com"><img src="https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Acessar o portfólio de Nicolas Portie"></a>
+  <a href="https://www.linkedin.com/in/nicolasportie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Acessar o LinkedIn de Nicolas Portie"></a>
+  <a href="mailto:contato@nicolasportie.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Enviar um e-mail para Nicolas Portie"></a>
+  <a href="https://github.com/NicolasPortie?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-181717?style=flat-square&logo=github&logoColor=white" alt="Explorar os repositórios públicos de Nicolas Portie"></a>
+</p>
 
-Desenvolvo sistemas web, APIs e aplicações voltadas a processos de negócio, principalmente com **C#** e **.NET**. Minha atuação vai da modelagem das regras e dos dados à arquitetura, persistência, integrações e evolução do software.
+## Perfil
 
-Atuo especialmente em problemas em que o software precisa organizar processos complexos, integrar sistemas diferentes ou substituir operações que antes dependiam de trabalho manual.
+Desenvolvo sistemas web, APIs e integrações no ecossistema .NET. Antes de implementar, procuro entender como o processo funciona e quais regras o sistema precisa representar. A partir disso, defino os dados, a arquitetura e as integrações.
 
-## Stack principal
+Também uso React e TypeScript em interfaces web, principalmente dashboards e fluxos operacionais.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET 8, 9 e 10](https://img.shields.io/badge/.NET-8%20%7C%209%20%7C%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Áreas de atuação
 
-## Projetos em destaque
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend orientado ao domínio</h3>
+      APIs e serviços em C# e .NET para sistemas com regras de negócio e persistência de dados.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Produtos web</h3>
+      Interfaces em React e TypeScript, de dashboards a fluxos operacionais.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Integrações e automação</h3>
+      Comunicação entre sistemas e automação de processos que antes dependiam de trabalho manual.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Software e hardware</h3>
+      Aplicações que recebem sinais de dispositivos, validam acessos e mostram a operação em tempo real.
+    </td>
+  </tr>
+</table>
 
-### [Control Finance](https://nicolasportie.com/projeto/control-finance)
+## Stack
 
-Projeto privado de controle financeiro pessoal com dashboard, lançamentos, cartões, contas fixas, metas e limites por categoria. Integra Telegram e WhatsApp para transformar texto, áudio e comprovantes em registros estruturados com IA.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,vite,postgres,redis,docker,git&theme=dark&perline=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,vite,postgres,redis,docker,git&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,vite,postgres,redis,docker,git&theme=light&perline=10" alt="C#, .NET, TypeScript, React, Next.js, Vite, PostgreSQL, Redis, Docker e Git">
+  </picture>
+</p>
 
-`C#` · `.NET 10` · `ASP.NET Core` · `Entity Framework Core` · `Next.js` · `PostgreSQL` · `Docker` · `Telegram` · `WhatsApp` · `IA`
+| Backend | Web | Dados e entrega |
+| :--- | :--- | :--- |
+| C#, .NET 8+, ASP.NET Core, Entity Framework Core | TypeScript, React, Next.js, Vite, GSAP | SQL Server, PostgreSQL, Redis, Docker, Git |
 
-### [OrquestContext](https://github.com/NicolasPortie/orquestcontext)
+## Contato
 
-Ferramenta local para organizar e retomar o trabalho de projetos de software sem depender do histórico do chat. Registra objetivos, decisões, Git, testes, artefatos, checkpoints e próximos passos em sessões portáteis, com integração ao Claude Code e ao Codex por hooks e MCP. Também centraliza busca, avaliações e evidências de build, test e lint em um ambiente local.
-
-`C#` · `.NET 10` · `ASP.NET Core` · `SQLite` · `React` · `MCP`
-
-### [CaotinhoAuMiau](https://github.com/NicolasPortie/CaotinhoAuMiau)
-
-Plataforma para digitalizar o fluxo de adoção de pets, conectando ONGs e adotantes com gestão centralizada, contratos digitais e acompanhamento de processos. Inclui áreas pública, de usuário e administrativa, com autenticação, auditoria, notificações e processamento em segundo plano para apoiar a operação diária.
-
-`C#` · `.NET 9` · `ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server` · `Redis` · `Razor` · `JavaScript`
-
-### [Controle de Acesso Veicular](https://github.com/NicolasPortie/Controle-de-Acesso)
-
-Sistema de controle veicular que integra hardware e software para registrar, validar e monitorar acessos em ambientes corporativos. Implementa autenticação em duas etapas com RFID e PIN, cancela automática, comunicação serial e dashboard operacional em tempo real.
-
-`C#` · `.NET 8` · `Blazor Server` · `MudBlazor` · `Entity Framework Core` · `SQL Server` · `Arduino` · `RFID`
-
----
-[Portfólio](https://nicolasportie.com) · [LinkedIn](https://www.linkedin.com/in/nicolasportie) · [E-mail](mailto:contato@nicolasportie.com)
+Para conversar sobre desenvolvimento de software ou oportunidades profissionais, escreva para [contato@nicolasportie.com](mailto:contato@nicolasportie.com) ou fale comigo pelo [LinkedIn](https://www.linkedin.com/in/nicolasportie).

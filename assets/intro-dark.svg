@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356" height="30" viewBox="0 0 356 30" role="img" aria-labelledby="title description">
+  <title id="title">Engenheiro de software · C# / .NET</title>
+  <desc id="description">O subtítulo aparece com um efeito de digitação curto e permanece visível.</desc>
+  <style>
+    .text { fill: #c9d1d9; }
+    .accent { fill: #a78bfa; }
+    .reveal { animation: type 1.6s steps(34, end) both; }
+    .cursor {
+      fill: #a78bfa;
+      opacity: 0;
+      animation: track 1.6s steps(34, end) both, blink 0.8s step-end 5 forwards;
+    }
+    @keyframes type {
+      from { transform: translateX(-340px); }
+      to { transform: translateX(0); }
+    }
+    @keyframes track {
+      from { transform: translateX(0); }
+      to { transform: translateX(340px); }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { animation: none; }
+      .cursor { animation: none; opacity: 0; }
+    }
+  </style>
+  <defs>
+    <clipPath id="typing">
+      <rect class="reveal" width="340" height="30"/>
+    </clipPath>
+  </defs>
+  <text class="text" x="0" y="22" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" font-weight="500" textLength="340" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)">Engenheiro de software · <tspan class="accent">C# / .NET</tspan></text>
+  <rect class="cursor" x="2" y="7" width="2" height="18"/>
+</svg>
